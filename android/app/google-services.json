@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738847744499",
+    "firebase_url": "https://pitchconferencing.firebaseio.com",
+    "project_id": "pitchconferencing",
+    "storage_bucket": "pitchconferencing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738847744499:android:7332ae174021d6b04fb286",
+        "android_client_info": {
+          "package_name": "com.example.qr_tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738847744499-rt2h1etj8jfad87k52bs3ecl2liriqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6f4aOrAiviuxhxQk8R_bMonNJaxyyJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738847744499-rt2h1etj8jfad87k52bs3ecl2liriqtd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738847744499-s2avhehqfii08u2emg859nop7evdipbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.omnivor.PitchConferencing",
+                "app_store_id": "1476103195"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
